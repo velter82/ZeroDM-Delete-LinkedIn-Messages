@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://chromewebstore.google.com/" target="_blank">
+  <a href="https://chrome.google.com/webstore/detail/ikeljpanipmafhjfjobiihclbkjncagn" target="_blank">
     <img src="screenshots/ZeroDM_Banner.png" alt="ZeroDM Banner" width="800">
   </a>
 </p>
@@ -36,7 +36,7 @@ Get the latest version of **ZeroDM** from the **Chrome Web Store** or **GitHub R
     <img src="https://img.shields.io/badge/Install%20from%20Chrome%20Web%20Store-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Install from Chrome Web Store">
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/AmitDas4321/ZeroDM-Delete-LinkedIn-Messages/releases">
+  <a href="https://github.com/AmitDas4321/ZeroDM-Delete-LinkedIn-Messages/releases/download/v1.0.0/ZeroDM.crx">
     <img src="https://img.shields.io/badge/⬇️_Download_CRX_File-006C9C?style=for-the-badge&logo=github&logoColor=white" alt="Download CRX File">
   </a>
 </p>
