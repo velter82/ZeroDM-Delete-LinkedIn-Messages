@@ -82,9 +82,9 @@ Get the latest version of **ZeroDM** from the **Chrome Web Store** or **GitHub R
 
 <p align="center"><img src="screenshots/ZeroDM_Main.png" alt="Main Message Cleanup" width="800"/></p>
 
-### ✨ Cleanup in Progress
+### ✨ Easy To Use
 
-<p align="center"><img src="screenshots/ZeroDM_Progress.png" alt="Cleanup Progress" width="800"/></p>
+<p align="center"><img src="screenshots/ZeroDM_Progress.png" alt="Easy To Use" width="800"/></p>
 
 ---
 
